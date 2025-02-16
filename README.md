@@ -16,7 +16,7 @@ Frontend Developer passionate about creating engaging web experiences and transf
 I'm a dedicated frontend developer with expertise in modern JavaScript frameworks and a keen eye for design. My approach combines technical excellence with user-centric design principles to build seamless web experiences.
 </div>
 <div>
-  <img align="right" alt="Coding" width="50" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" />
+  <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" />
 
 </div>
 </div>
