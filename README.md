@@ -6,11 +6,9 @@
 
 </div>
 
-<img align="right" style="display: relative; top:1000px" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" />
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" />
 
-Frontend Developer passionate about creating engaging web experiences and transforming ideas into user-friendly interfaces.
-
-## 🚀 About Me
+## About Me 🚀
 
 I'm a dedicated frontend developer with expertise in modern JavaScript frameworks and a keen eye for design. My approach combines technical excellence with user-centric design principles to build seamless web experiences.
 
@@ -25,14 +23,14 @@ const mubeena = {
 };
 ```
 
-## 💼 Professional Experience
+## Professional Experience 💼
 
 - **Frontend Developer** at Fabevy Software Services (Dec 2022 - Mar 2024)
   - Developed responsive, user-friendly websites
   - Collaborated with design teams on UI/UX implementation
   - Led version control processes and technical training sessions
 
-## 🛠️ Tech Stack
+## Tech Stack 🛠️
 
 ### Frontend
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -47,7 +45,7 @@ const mubeena = {
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 
-## 🌟 Featured Project
+## Featured Project 🌟
 
 ### Trello Clone
 A full-featured Trello clone built with modern web technologies.
@@ -60,7 +58,7 @@ A full-featured Trello clone built with modern web technologies.
 - Drag-and-drop functionality
 - Individual delete capabilities for boards, lists, and cards
 
-## 📫 Let's Connect!
+## Let's Connect! 📫
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/AlMubeena)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=safari&logoColor=white)](https://PersonalPortfolio)
