@@ -1,7 +1,7 @@
 <div align="center">
   
 # Hi there! 👋 I'm Al Mubeena J
-<div align="center">
+<div text-align="center">
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Frontend+Developer;UI%2FUX+Enthusiast;Creative+Problem+Solver)](https://git.io/typing-svg)
 </div>
