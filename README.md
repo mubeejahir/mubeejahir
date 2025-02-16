@@ -12,7 +12,6 @@ Frontend Developer passionate about creating engaging web experiences and transf
 
 I'm a dedicated frontend developer with expertise in modern JavaScript frameworks and a keen eye for design. My approach combines technical excellence with user-centric design principles to build seamless web experiences.
 
-
 ```javascript
 const mubeena = {
     pronouns: "she/her",
@@ -47,9 +46,8 @@ const mubeena = {
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 
 ## 🌟 Featured Project
-<div>
-  <div>
-  ### Trello Clone
+
+### Trello Clone
 A full-featured Trello clone built with modern web technologies.
 
 **Tech Stack:** Nuxt.js, Firebase, Tailwind CSS
@@ -59,13 +57,6 @@ A full-featured Trello clone built with modern web technologies.
 - Real-time updates through Firebase integration
 - Drag-and-drop functionality
 - Individual delete capabilities for boards, lists, and cards
-  
-  </div>
-  <div>
-    <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" />
-  </div>
-</div>
-
 
 ## 📫 Let's Connect!
 
