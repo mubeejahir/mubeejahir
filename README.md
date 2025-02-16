@@ -12,8 +12,6 @@ Frontend Developer passionate about creating engaging web experiences and transf
 
 I'm a dedicated frontend developer with expertise in modern JavaScript frameworks and a keen eye for design. My approach combines technical excellence with user-centric design principles to build seamless web experiences.
 
-  <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" />
-
 
 ```javascript
 const mubeena = {
@@ -60,6 +58,8 @@ A full-featured Trello clone built with modern web technologies.
 - Real-time updates through Firebase integration
 - Drag-and-drop functionality
 - Individual delete capabilities for boards, lists, and cards
+
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" />
 
 ## 📫 Let's Connect!
 
