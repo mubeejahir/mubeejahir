@@ -1,112 +1,72 @@
 <div align="center">
   
-# 👩‍💻 Al Mubeena J
-  
+# Hi there! 👋 I'm Al Mubeena J
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Frontend+Developer;UI%2FUX+Enthusiast;Creative+Problem+Solver)](https://git.io/typing-svg)
 
 </div>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" />
 
-## 🎯 Quick Overview
+Frontend Developer passionate about creating engaging web experiences and transforming ideas into user-friendly interfaces.
 
-> Frontend Developer with a passion for creating pixel-perfect, responsive web experiences. I believe in clean code, component-driven development, and the power of modern web technologies.
+## 🚀 About Me
 
-```typescript
-const techPassion = {
-    architecture: ["Component-Driven", "Micro-Frontends", "JAMstack"],
-    cleanCode: ["SOLID", "DRY", "Design Patterns"],
-    currentlyLearning: ["Web Performance Optimization", "Advanced Animation"],
-    interests: ["UI/UX", "Design Systems", "Accessibility"]
+I'm a dedicated frontend developer with expertise in modern JavaScript frameworks and a keen eye for design. My approach combines technical excellence with user-centric design principles to build seamless web experiences.
+
+```javascript
+const mubeena = {
+    pronouns: "she/her",
+    code: ["JavaScript", "HTML", "CSS"],
+    frameworks: ["Vue.js", "React.js", "Nuxt.js"],
+    styling: ["Tailwind CSS"],
+    database: ["Firebase"],
+    currentFocus: "Building responsive and intuitive web applications"
 };
 ```
 
-## 💫 What I Bring to the Table
+## 💼 Professional Experience
 
-- 🎨 Strong focus on **component-driven architecture** and **reusable design systems**
-- 🛠️ Experience with **modern JavaScript frameworks** and state management
-- 📱 Expert in creating **responsive** and **mobile-first** applications
-- 🔍 Advocate for **web accessibility** and **performance optimization**
-- 🤝 Proven track record in **team collaboration** and **mentoring**
+- **Frontend Developer** at Fabevy Software Services (Dec 2022 - Mar 2024)
+  - Developed responsive, user-friendly websites
+  - Collaborated with design teams on UI/UX implementation
+  - Led version control processes and technical training sessions
 
-## 🛠️ Tech Arsenal
+## 🛠️ Tech Stack
 
-### Frontend Foundations
-```json
-{
-  "core": ["JavaScript (ES6+)", "TypeScript", "HTML5", "CSS3"],
-  "frameworks": ["Vue.js", "React.js", "Nuxt.js"],
-  "styling": ["Tailwind CSS", "CSS-in-JS", "SCSS"],
-  "state": ["Redux", "Vuex", "Pinia"],
-  "tools": ["Vite", "Webpack", "Git"]
-}
-```
+### Frontend
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-### Development Approach
-- 📐 Component-Driven Development
-- 🎨 Atomic Design Principles
-- ♿ WCAG Accessibility Standards
-- 🔄 CI/CD Practices
-- 📱 Mobile-First Methodology
+### Tools & Frameworks
+![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00DC82?style=flat-square&logo=nuxt.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 
-## 🚀 Featured Project
+## 🌟 Featured Project
 
-### Trello Clone - Task Management Reimagined
-> A modern take on collaborative task management
+### Trello Clone
+A full-featured Trello clone built with modern web technologies.
 
-<table>
-  <tr>
-    <td>
-      <strong>Tech Stack</strong>
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/-Nuxt.js-00DC82?style=flat-square&logo=nuxt.js&logoColor=white" alt="Nuxt.js"/>
-      <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase"/>
-      <img src="https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
-    </td>
-  </tr>
-</table>
+**Tech Stack:** Nuxt.js, Firebase, Tailwind CSS
 
-#### ✨ Key Features
-- 🎯 Intuitive board and list management
-- 🔄 Real-time updates and collaboration
-- 🎨 Customizable workflows
-- 📱 Fully responsive design
-- 🔍 Advanced search and filtering
+**Key Features:**
+- Multi-board, list, and card management
+- Real-time updates through Firebase integration
+- Drag-and-drop functionality
+- Individual delete capabilities for boards, lists, and cards
 
-## 📈 GitHub Stats
+## 📫 Let's Connect!
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mubeejahir&theme=tokyonight" alt="GitHub Streak Stats"/>
-</div>
-
-## 🤝 Let's Connect!
-
-<div align="center">
-  
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=safari&logoColor=white)](https://PersonalPortfolio)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/AlMubeena)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mubeejahir)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mubee.jahir@gmail.com)
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/AlMubeena)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=safari&logoColor=white)](https://PersonalPortfolio)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Mubeejahir)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mubee.jahir@gmail.com)
 
 ---
 
-### 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- Coming soon...
-<!-- BLOG-POST-LIST:END -->
-
-<div align="center">
-  
-### 💭 Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvs/?username=Mubeejahir&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</div>
+⭐️ From [AlMubeena](https://github.com/Mubeejahir)
