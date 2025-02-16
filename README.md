@@ -6,7 +6,7 @@
 
 </div>
 
-<img align="right" style="display: 'relative'; top:'1000px'" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" />
+<img align="right" style="display: relative; top:1000px" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" />
 
 Frontend Developer passionate about creating engaging web experiences and transforming ideas into user-friendly interfaces.
 
